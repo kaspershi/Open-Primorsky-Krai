@@ -2,7 +2,7 @@
 An educational drawing app that explores the culture and nature of Primorsky Krai (Russian Far East) through interactive digital art.
 
 This project designed as both a creative tool and a cultural learning experience, the app bridges digital illustration, edutainment, and regional heritage preservation.
-Users engage with authentic elements of Primorsky Krai’s identity: traditional patterns of Indigenous peoples, endangered wildlife such as the Amur tiger, Ussuri leopard, and Blakiston’s fish owl, the marine biodiversity of the Sea of Japan, and distinctive Far Eastern landscapes and architecture. Each drawing activity is paired with concise, fact-based context, turning every sketch into a moment of discovery.
+Users engage with authentic elements of Primorsky Krai’s identity: traditional patterns of Indigenous peoples, endangered wildlife such as the Amur tiger, Ussuri leopard, the marine biodiversity of the Sea of Japan, and distinctive Far Eastern landscapes and architecture. Each drawing activity is paired with concise, fact-based context, turning every sketch into a moment of discovery.
 
 The app targets students, teachers, digital artists, and cultural enthusiasts seeking meaningful screen time, creative education, or krai studies resources. It supports offline use, offers beginner-friendly drawing tools.
 
