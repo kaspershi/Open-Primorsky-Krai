@@ -11,3 +11,4 @@ This repository includes the source code, illustration assets, UX documentation,
 
 https://github.com/user-attachments/assets/9f424cd4-4af0-4bac-9c0d-af41758fc9cd
 
+<img width="834" height="406" alt="image" src="https://github.com/user-attachments/assets/f93c592d-0c0a-4a1e-acd0-3f081d11b206" />
