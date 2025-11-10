@@ -1,12 +1,15 @@
 # Open-Primorsky-Krai
-An educational drawing app that explores the culture and nature of Primorsky Krai (Russian Far East) through interactive digital art.
+Dive into the rich natural and cultural world of the Russian Far East with an interactive drawing experience. This open-source app blends creativity and learning, offering users a hands-on way to explore the landscapes, wildlife, and heritage of Primorsky Krai.
 
-This project designed as both a creative tool and a cultural learning experience, the app bridges digital illustration, edutainment, and regional heritage preservation.
-Users engage with authentic elements of Primorsky Krai’s identity: traditional patterns of Indigenous peoples, endangered wildlife such as the Amur tiger, Ussuri leopard, the marine biodiversity of the Sea of Japan, and distinctive Far Eastern landscapes and architecture. Each drawing activity is paired with concise, fact-based context, turning every sketch into a moment of discovery.
+As you draw, you’ll connect with real elements of the region: the majestic Amur tiger, the rare Ussuri leopard, marine species from the Sea of Japan, traditional motifs of Indigenous communities, and the distinctive architecture of Far Eastern towns. Each illustration comes with brief, educational context—turning art into a quiet moment of discovery.
 
-The app targets students, teachers, digital artists, and cultural enthusiasts seeking meaningful screen time, creative education, or krai studies resources. It supports offline use, offers beginner-friendly drawing tools.
+Built for students, teachers, digital artists, and cultural explorers, the app supports offline use and features beginner-friendly tools. It’s designed not just for creative expression, but as a gentle introduction to krai studies and regional biodiversity.
 
-This repository includes the source code, illustration assets, UX documentation, and educational metadata. The project welcomes open-source contributions, especially from educators, ethnographers, wildlife illustrators, and edtech developers.
+The project is open to collaboration. We especially encourage input from educators, ethnographers, wildlife illustrators, and edtech developers who care about preserving local knowledge through engaging digital formats.
+
+All code, visual assets, UX notes, and educational metadata are included in this repository.
+
+
 
 
 <img width="834" height="406" alt="image" src="https://github.com/user-attachments/assets/f93c592d-0c0a-4a1e-acd0-3f081d11b206" />
