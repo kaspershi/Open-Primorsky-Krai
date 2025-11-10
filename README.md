@@ -9,6 +9,6 @@ The app targets students, teachers, digital artists, and cultural enthusiasts se
 This repository includes the source code, illustration assets, UX documentation, and educational metadata. The project welcomes open-source contributions, especially from educators, ethnographers, wildlife illustrators, and edtech developers.
 
 
-https://github.com/user-attachments/assets/9f424cd4-4af0-4bac-9c0d-af41758fc9cd
-
 <img width="834" height="406" alt="image" src="https://github.com/user-attachments/assets/f93c592d-0c0a-4a1e-acd0-3f081d11b206" />
+
+https://github.com/user-attachments/assets/9f424cd4-4af0-4bac-9c0d-af41758fc9cd
