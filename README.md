@@ -1,4 +1,15 @@
 # Open-Primorsky-Krai
+Открытое интерактивное приложение для рисования, объединяющее цифровое искусство, краеведение и сохранение культурного наследия. Предназначено для школьников, студентов, учителей, цифровых художников и всех, кто интересуется культурой и природой Дальнего Востока России.
+
+Через творческую практику пользователи знакомятся с уникальными особенностями Приморского края: амурским тигром, уссурийским леопардом, морским биоразнообразием Японского моря, традиционными орнаментами коренных народов и архитектурой российского Дальнего Востока. Каждое задание сопровождается краткой фактической справкой, превращая рисование в увлекательное познание региональной истории, природы и культуры.
+
+Приложение работает автономно (offline), имеет интуитивно понятные инструменты и подходит для пользователей любого уровня подготовки. Может использоваться на уроках краеведения, в кружках, при самостоятельном изучении или в творческих проектах.
+
+Проект ориентирован на поддержку краеведческого образования, экологической грамотности и развития edtech-инструментов с региональным содержанием. В репозитории доступны исходный код, иллюстрационные ассеты, образовательные метаданные и документация по UX.
+
+Разработчики приветствуют вклад от педагогов, этнографов, художников-анималистов, специалистов в области edtech и всех, кто заинтересован в сохранении знаний о Приморье через открытые цифровые форматы.
+
+
 Dive into the rich natural and cultural world of the Russian Far East with an interactive drawing experience. This open-source app blends creativity and learning, offering users a hands-on way to explore the landscapes, wildlife, and heritage of Primorsky Krai.
 
 As you draw, you’ll connect with real elements of the region: the majestic Amur tiger, the rare Ussuri leopard, marine species from the Sea of Japan, traditional motifs of Indigenous communities, and the distinctive architecture of Far Eastern towns. Each illustration comes with brief, educational context—turning art into a quiet moment of discovery.
